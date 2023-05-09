@@ -1,0 +1,14 @@
+.signup{
+ 
+   background-image: url('../../../public/images/signupbg.jpg');
+
+    background-position:-365px 58px;
+    background-repeat:no-repeat;
+    background-color:#01A6E6;
+}
+.bttn{
+ width :60%;
+  background-color:rgb(23, 23, 65)!important;
+   border-radius: 10px;
+   font-size: 16px !important;
+}

@@ -1,0 +1,28 @@
+.header{
+    background:linear-gradient(rgba(3,37,65, 0.5),rgba(3,37,65, 0.5)),url(../../../public/images/header1.jpg);
+  color: rgb(3,37,65);
+    height: 50vh;
+    background-size: cover;
+  
+}
+.header h2{
+    font-size: 48px;
+    font-weight: 700;
+}
+.header h3{
+    font-size: 32px;
+    font-weight: 600;
+}
+.searchIcon{
+    background:linear-gradient(rgba(30,213,169),rgba(1,180,228));
+    left: 85%;
+    bottom: 0;
+    color: #fff;
+   
+
+}
+.searchInput{
+    width: 90% !important;
+    color: #999;
+    
+}
